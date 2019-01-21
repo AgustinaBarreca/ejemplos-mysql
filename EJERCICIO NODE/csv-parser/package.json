@@ -1,0 +1,22 @@
+{
+  "name": "csv-parser",
+  "version": "1.0.0",
+  "description": "bla bla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinaBarreca/csv-parser.git"
+  },
+  "author": "agustina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgustinaBarreca/csv-parser/issues"
+  },
+  "homepage": "https://github.com/AgustinaBarreca/csv-parser#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}

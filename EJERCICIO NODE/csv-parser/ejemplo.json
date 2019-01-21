@@ -1,0 +1,37 @@
+[
+  {
+    "precio": 1200,
+    "costo": 800,
+    "nombre": "Chicle Bazooka"
+  },
+  {
+    "precio": 500,
+    "costo": 300,
+    "nombre": "Caramelo Media Hora"
+  },
+  {
+    "precio": 200,
+    "costo": 150,
+    "nombre": "Alfajor Fulbito de Frutas"
+  },
+  {
+    "precio": 5000,
+    "costo": 4000,
+    "nombre": "Chocoarroz Sabor Avellanas Normandas"
+  },
+  {
+    "precio": 500,
+    "costo": 400,
+    "nombre": "Cepita Manzana Cool"
+  },
+  {
+    "precio": 900,
+    "costo": 800,
+    "nombre": "Petaca de Lemonchelo"
+  },
+  {
+    "precio": 2000,
+    "costo": 1800,
+    "nombre": "Prity Latita"
+  }
+]
